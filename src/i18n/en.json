@@ -1,0 +1,123 @@
+{
+  "hero": {
+    "headline": "Headline in the Hero"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "cart": "Cart",
+    "category": "Category"
+  },
+  "submenu": {
+    "profile": "Account profile",
+    "orders": "Order history",
+    "addresses": "My addresses",
+    "wishlists": "My wish lists"
+  },
+  "footer": {
+    "shipping": "Shipping",
+    "return": "Return",
+    "guarantee": "Guarantee",
+    "privacy_policy": "Privacy policy",
+    "about_us": "About us",
+    "help": "Help",
+    "contact_us": "Contact us",
+    "powered_by": "Powered by BigCommerce",
+    "rights": "© All rights reserved, Modern Tribe"
+  },
+  "features": {
+    "secure": "100% Secure",
+    "fast": "Fast shipping",
+    "easy": "Easy returns",
+    "safe": "Safely packaged"
+  },
+  "category": {
+    "item_in": "{{count}} item in '{{category}}'",
+    "item_in_plural": "{{count}} items in '{{category}}'"
+  },
+  "bc": {
+    "btn": {
+      "yes": "Yes",
+      "no": "No",
+      "add": "Add",
+      "delete": "Delete",
+      "edit": "Edit",
+      "share": "Share",
+      "remove": "Remove",
+      "copy_link": "Copy Link"
+    },
+    "reviews": {
+      "save": "Save Review"
+    },
+    "wishlist": {
+      "name": "Wishlist Name",
+      "make_public": "Make this Wish List shareable with a public link?",
+      "save": "Save Wishlist"
+    },
+    "inventory": {
+      "left_in_stock": "left in stock"
+    },
+    "order": {
+      "status": "Status",
+      "date_created": "Date Created",
+      "date_updated": "Date Updated",
+      "last_update": "Last Update",
+      "payment_method": "Payment Method",
+      "items_subtotal": "Items Subtotal",
+      "store_credit": "Store Credit Applied",
+      "gift_certificate": "Gift certificate applied",
+      "tax": "Taxes",
+      "total": "Total",
+      "subtotal": "Subtotal",
+      "order": "Order",
+      "details": "Order Details"
+    },
+    "cart": {
+      "empty": "Please add some items to your cart.",
+      "checkout": "Checkout",
+      "added": "Product added to your cart",
+      "error_adding": "Error adding to cart",
+      "add_to_cart": "Add to Cart",
+      "your_order": "Your order",
+      "subtotal": "Subtotal",
+      "total": "Total",
+      "proceed": "Proceed to checkout",
+      "taxes": "Taxes",
+      "calculated_at": "Calculated at checkout"
+    },
+    "product": {
+      "color": "COLOR",
+      "quantity": "QUANTITY",
+      "description": "Product Description",
+      "specifications": "Specifications"
+    },
+    "search": {
+      "search": "Search",
+      "result": "{{count}} result",
+      "result_plural": "{{count}} results",
+      "for": " for '{{search}}'"
+    },
+    "fields": {
+      "comments": "Comments",
+      "subject": "Subject",
+      "rating": "Rating",
+      "name": "Name",
+      "email": "Email Address"
+    },
+    "wish_list": {
+      "title": "My wish lists",
+      "new": "New wish list",
+      "create": "Create wish list",
+      "edit": "Edit wish list",
+      "add": "Add to wish list",
+      "public": "Public",
+      "private": "Private",
+      "item": "item",
+      "item_plural": "items",
+      "back": "Back to my wish lists",
+      "make_it_public": "Make it public",
+      "name": "Wish list name",
+      "name_placeholder": "Name your wish list"
+    }
+  },
+  "generic_error": "Unexpected error"
+}
