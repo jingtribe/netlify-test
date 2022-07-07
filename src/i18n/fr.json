@@ -1,0 +1,116 @@
+{
+  "hero": {
+    "headline": "Le Headline Oui"
+  },
+  "breadcrumbs": {
+    "home": "Home",
+    "cart": "Panier",
+    "category": "Catégorie"
+  },
+  "submenu": {
+    "profile": "Profil",
+    "orders": "Historique des commandes",
+    "addresses": "Mes adresses",
+    "wishlists": "Mes listes de souhaits"
+  },
+  "footer": {
+    "shipping": "Expédition",
+    "return": "Retour",
+    "guarantee": "Garantie",
+    "privacy_policy": "Politique de confidentialité",
+    "about_us": "À propos de nous",
+    "help": "Aide",
+    "contact_us": "Contactez-nous",
+    "powered_by": "Powered by BigCommerce",
+    "rights": "© Tous droits réservés, Modern Tribe"
+  },
+  "features": {
+    "secure": "100% Sécurisé",
+    "fast": "Expédition rapide",
+    "easy": "Retours faciles",
+    "safe": "Emballé en toute sécurité"
+  },
+  "bc": {
+    "btn": {
+      "yes": "Oui",
+      "no": "Non",
+      "add": "Ajouter",
+      "delete": "Supprimer",
+      "edit": "Éditer",
+      "share": "Partager",
+      "remove": "Enlever",
+      "copy_link": "Copier le lien"
+    },
+    "reviews": {
+      "save": "Enregistrer l’examen"
+    },
+    "wishlist": {
+      "name": "Nom de la liste de souhaits",
+      "make_public": "Rendre cette liste de souhaits partageable avec un lien public ?",
+      "save": "Enregistrer wishlist"
+    },
+    "inventory": {
+      "left_in_stock": "laissé en stock"
+    },
+    "order": {
+      "status": "Statut",
+      "date_created": "Date créée",
+      "date_updated": "Date mise à jour",
+      "last_update": "Dernière mise à jour",
+      "payment_method": "Méthode de paiement",
+      "items_subtotal": "Articles Subtotal",
+      "store_credit": "Crédit de magasin appliqué",
+      "gift_certificate": "Certificat-cadeau appliqué",
+      "tax": "Impôt estimé à collecter",
+      "total": "Total",
+      "subtotal": "Sous-total",
+      "order": "Commande",
+      "details": "Détails de la commande"
+    },
+    "cart": {
+      "empty": "S’il vous plaît ajouter quelques éléments à votre panier.",
+      "checkout": "Caisse",
+      "added": "Produit ajouté à votre panier",
+      "error_adding": "Erreur lors de l'ajout au panier",
+      "add_to_cart": "Ajouter au panier",
+      "your_order": "Votre commande",
+      "subtotal": "Sous-total",
+      "total": "Total",
+      "proceed": "Procéder à la caisse",
+      "taxes": "Impôts",
+      "calculated_at": "Calculé à la caisse"
+    },
+    "product": {
+      "color": "COULEUR",
+      "quantity": "QUANTITÉ",
+      "description": "Description du produit",
+      "specifications": "Caractéristiques"
+    },
+    "search": {
+      "search": "Rechercher"
+    },
+    "fields": {
+      "comments": "Commentaires",
+      "subject": "Objet",
+      "rating": "Notation",
+      "name": "Nom",
+      "email": "Adresse courriel"
+    },
+    "wish_list": {
+      "title": "Mes listes de souhaits",
+      "new": "Nouvelle liste de souhaits",
+      "create": "Créer liste de souhaits",
+      "edit": "Modifier la liste de souhaits",
+      "add": "Ajouter à la liste de souhaits",
+      "public": "Publique",
+      "private": "Privée",
+      "item": "élément",
+      "item_plural": "éléments",
+      "back": "Retour à mes listes de souhaits",
+      "make_it_public": "Rendez-le public",
+      "name": "Nom de la liste de souhaits",
+      "name_placeholder": "Nommez votre liste de souhaits"
+    }
+  },
+  "generic_error": "Erreur inattendue"
+}
